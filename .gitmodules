@@ -7,3 +7,8 @@
 [submodule "PerfectExamples"]
 	path = PerfectExamples
 	url = https://github.com/PerfectlySoft/PerfectExamples.git
+[submodule "Perfect-SQLite3"]
+	path = Perfect-SQLite3
+	url = https://github.com/PerfectlySoft/Perfect-SQLite3.git
+
+
