@@ -5,10 +5,10 @@
       location = "container:"
       name = "Core">
       <FileRef
-         location = "group:Xcode/PerfectLib/PerfectLib.xcodeproj">
+         location = "group:PerfectLib/Xcode/PerfectLib/PerfectLib.xcodeproj">
       </FileRef>
       <FileRef
-         location = "group:Xcode/PerfectLib/../PerfectServer/PerfectServer.xcodeproj">
+         location = "group:PerfectServer/Xcode/PerfectServer/PerfectServer.xcodeproj">
       </FileRef>
    </Group>
    <Group
@@ -34,7 +34,7 @@
       location = "container:"
       name = "Database">
       <FileRef
-         location = "group:Xcode/Perfect-SQLite/Perfect-SQLite.xcodeproj">
+         location = "group:Perfect-SQLite/Xcode/Perfect-SQLite/Perfect-SQLite.xcodeproj">
       </FileRef>
    </Group>
 </Workspace>
