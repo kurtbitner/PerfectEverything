@@ -42,5 +42,8 @@
       <FileRef
          location = "group:Perfect-MySQL/Xcode/Perfect-MySQL/Perfect-MySQL.xcodeproj">
       </FileRef>
+      <FileRef
+         location = "group:Perfect-MongoDB/Xcode/Perfect-MongoDB/Perfect-MongoDB.xcodeproj">
+      </FileRef>
    </Group>
 </Workspace>
