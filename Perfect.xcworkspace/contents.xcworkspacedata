@@ -39,5 +39,8 @@
       <FileRef
          location = "group:Perfect-PostgreSQL/Xcode/Perfect-PostgreSQL/Perfect-PostgreSQL.xcodeproj">
       </FileRef>
+      <FileRef
+         location = "group:Perfect-MySQL/Xcode/Perfect-MySQL/Perfect-MySQL.xcodeproj">
+      </FileRef>
    </Group>
 </Workspace>
