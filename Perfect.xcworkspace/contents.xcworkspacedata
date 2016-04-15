@@ -36,5 +36,8 @@
       <FileRef
          location = "group:Perfect-SQLite/Xcode/Perfect-SQLite/Perfect-SQLite.xcodeproj">
       </FileRef>
+      <FileRef
+         location = "group:Perfect-PostgreSQL/Xcode/Perfect-PostgreSQL/Perfect-PostgreSQL.xcodeproj">
+      </FileRef>
    </Group>
 </Workspace>
