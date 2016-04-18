@@ -19,3 +19,6 @@
 [submodule "Perfect-MySQL"]
 	path = Perfect-MySQL
 	url = https://github.com/PerfectlySoft/Perfect-MySQL
+[submodule "PerfectDocs"]
+	path = PerfectDocs
+	url = https://github.com/PerfectlySoft/PerfectDocs.git
