@@ -15,12 +15,6 @@
       location = "container:"
       name = "Examples">
       <FileRef
-         location = "group:PerfectExamples/Sources/Authenticator/Authenticator.xcodeproj">
-      </FileRef>
-      <FileRef
-         location = "group:PerfectExamples/Sources/Tap Tracker/Tap Tracker.xcodeproj">
-      </FileRef>
-      <FileRef
          location = "group:PerfectExamples/Sources/Upload Enumerator/Upload Enumerator.xcodeproj">
       </FileRef>
       <FileRef
