@@ -15,13 +15,13 @@
       location = "container:"
       name = "Examples">
       <FileRef
-         location = "group:PerfectExamples/Sources/Upload Enumerator/Upload Enumerator.xcodeproj">
+         location = "group:Examples/PerfectExample-UploadEnumerator/Xcode/Upload Enumerator.xcodeproj">
       </FileRef>
       <FileRef
-         location = "group:PerfectExamples/Sources/URL Routing/URL Routing.xcodeproj">
+         location = "group:Examples/PerfectExample-URLRouting/Xcode/URL Routing.xcodeproj">
       </FileRef>
       <FileRef
-         location = "group:PerfectExamples/Sources/WebSockets Server/WebSockets Server.xcodeproj">
+         location = "group:Examples/PerfectExample-WebSocketsServer/Xcode/WebSockets Server.xcodeproj">
       </FileRef>
    </Group>
    <Group
