@@ -22,3 +22,12 @@
 [submodule "PerfectDocs"]
 	path = PerfectDocs
 	url = https://github.com/PerfectlySoft/PerfectDocs.git
+[submodule "Examples/PerfectExample-WebSocketsServer"]
+	path = Examples/PerfectExample-WebSocketsServer
+	url = https://github.com/PerfectlySoft/PerfectExample-WebSocketsServer.git
+[submodule "Examples/PerfectExample-URLRouting"]
+	path = Examples/PerfectExample-URLRouting
+	url = https://github.com/PerfectlySoft/PerfectExample-URLRouting.git
+[submodule "Examples/PerfectExample-UploadEnumerator"]
+	path = Examples/PerfectExample-UploadEnumerator
+	url = https://github.com/PerfectlySoft/PerfectExample-UploadEnumerator.git
