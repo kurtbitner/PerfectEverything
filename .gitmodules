@@ -4,9 +4,6 @@
 [submodule "PerfectServer"]
 	path = PerfectServer
 	url = https://github.com/PerfectlySoft/PerfectServer.git
-[submodule "PerfectExamples"]
-	path = PerfectExamples
-	url = https://github.com/PerfectlySoft/PerfectExamples.git
 [submodule "Perfect-SQLite"]
 	path = Perfect-SQLite
 	url = https://github.com/PerfectlySoft/Perfect-SQLite.git
