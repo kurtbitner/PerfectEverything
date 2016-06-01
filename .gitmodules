@@ -28,3 +28,6 @@
 [submodule "Examples/PerfectExample-UploadEnumerator"]
 	path = Examples/PerfectExample-UploadEnumerator
 	url = https://github.com/PerfectlySoft/PerfectExample-UploadEnumerator.git
+[submodule "PerfectTemplate"]
+	path = PerfectTemplate
+	url = https://github.com/PerfectlySoft/PerfectTemplate.git
