@@ -4,18 +4,6 @@
 [submodule "PerfectServer"]
 	path = PerfectServer
 	url = https://github.com/PerfectlySoft/PerfectServer.git
-[submodule "Perfect-SQLite"]
-	path = Perfect-SQLite
-	url = https://github.com/PerfectlySoft/Perfect-SQLite.git
-[submodule "Perfect-PostgreSQL"]
-	path = Perfect-PostgreSQL
-	url = https://github.com/PerfectlySoft/Perfect-PostgreSQL.git
-[submodule "Perfect-MongoDB"]
-	path = Perfect-MongoDB
-	url = https://github.com/PerfectlySoft/Perfect-MongoDB.git
-[submodule "Perfect-MySQL"]
-	path = Perfect-MySQL
-	url = https://github.com/PerfectlySoft/Perfect-MySQL.git
 [submodule "PerfectDocs"]
 	path = PerfectDocs
 	url = https://github.com/PerfectlySoft/PerfectDocs.git
@@ -31,3 +19,18 @@
 [submodule "PerfectTemplate"]
 	path = PerfectTemplate
 	url = https://github.com/PerfectlySoft/PerfectTemplate.git
+[submodule "Datasources/Perfect-PostgreSQL"]
+	path = Datasources/Perfect-PostgreSQL
+	url = https://github.com/PerfectlySoft/Perfect-PostgreSQL.git
+[submodule "Datasources/Perfect-MySQL"]
+	path = Datasources/Perfect-MySQL
+	url = https://github.com/PerfectlySoft/Perfect-MySQL.git
+[submodule "Datasources/Perfect-MongoDB"]
+	path = Datasources/Perfect-MongoDB
+	url = https://github.com/PerfectlySoft/Perfect-MongoDB.git
+[submodule "Datasources/Perfect-SQLite"]
+	path = Datasources/Perfect-SQLite
+	url = https://github.com/PerfectlySoft/Perfect-SQLite.git
+[submodule "Datasources/Perfect-Redis"]
+	path = Datasources/Perfect-Redis
+	url = https://github.com/PerfectlySoft/Perfect-Redis.git
