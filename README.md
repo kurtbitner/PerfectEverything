@@ -1,11 +1,11 @@
 # Perfect: Server-Side Swift
 ![Perfect logo](https://www.perfect.org/images/icon_128x128.png)
 
-# PerfectStarter
+# PerfectEverything
 
 This repository contains all of the Perfect related Swift packages as a series of sub-repositories. 
 
-```git clone --recursive https://github.com/PerfectlySoft/PerfectStarter.git```
+```git clone --recursive https://github.com/PerfectlySoft/PerfectEverything.git```
 
 Cloning this repository will give you all of the examples & datasource connectors, the starter project template, PerfectLib, reference materials and the stand-alone HTTP and FastCGI servers. This is useful for one wanting to quickly get an overview of what Perfect has to offer.
 
