@@ -34,3 +34,6 @@
 [submodule "Datasources/Perfect-Redis"]
 	path = Datasources/Perfect-Redis
 	url = https://github.com/PerfectlySoft/Perfect-Redis.git
+[submodule "Examples/Perfect-UltimateNaughtsAndCrosses"]
+	path = Examples/Perfect-UltimateNaughtsAndCrosses
+	url = https://github.com/PerfectlySoft/Perfect-UltimateNaughtsAndCrosses.git
